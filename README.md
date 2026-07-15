@@ -1,2 +1,2 @@
 # japanese-weather-history
-please download release
+please download from release
